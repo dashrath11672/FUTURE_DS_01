@@ -155,6 +155,3 @@ Mobile layout optimization
 
 Dashrath Survase
 
-👤 Author
-
-Dashrath Survase
